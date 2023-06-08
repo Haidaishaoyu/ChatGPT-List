@@ -14,5 +14,6 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,stripe.network
 # log
 DOMAIN-SUFFIX,sentry.io
